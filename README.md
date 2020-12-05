@@ -1,5 +1,8 @@
 # Spring Boot JWT Authentication using Spring Security
 
+<a href="https://javatodev.com/spring-boot-jwt-authentication/" target="blank">
+    <img align="center" src="https://javatodev.com/wp-content/uploads/2020/11/Spring-Boot-JWT-Authentication-with-REST-API-Tutorial-800x450.png" alt="Spring Boot JWT Authentication with REST API Tutorial"/></a>
+
 <p align="left">
 In this article, I’ll explain how we can implement a JWT (JSON Web Token) based authentication layer on Spring Boot CRUD API using Spring Security. Basically this JWT authentication layer will secure the API to avoid unauthorized API access.
 
@@ -46,8 +49,10 @@ Related Articles
  - [Spring Boot REST API Using JPA, Hibernate, MySQL Tutorial](https://javatodev.com/spring-boot-mysql/)
  - [Database Migration Using Flyway in Spring Boot](https://javatodev.com/flyway-spring-boot/)
 
-<h1 align="center">Hi 👋, I'm Chinthaka Dinadasa</h1>
-<h3 align="center">A Passionate Java Fullstack Developer from Sri Lanka and Author of JavatoDev.com</h3>
+<h2>Author Profile</h2>
+
+<h3 align="center">Hi 👋, I'm Chinthaka Dinadasa</h3>
+<h5 align="center">A Passionate Java Fullstack Developer from Sri Lanka and Author of JavatoDev.com</h5>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javatodev" alt="javatodev" /></a> </p> -->
 
